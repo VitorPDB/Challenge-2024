@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=iaZc8DCg9Lg
 
 1. **Precisão de Localização e Tempo de Resposta**:
    Sem antena:
+   
    ![Output Terminal](assets/teste_de_precisao_e_tempo_sem_antena_1.png)
 
    Com antena:
