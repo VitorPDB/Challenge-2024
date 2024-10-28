@@ -41,3 +41,5 @@ https://www.youtube.com/watch?v=iaZc8DCg9Lg
    
    ![Output Terminal](assets/teste_de_precisao_e_tempo_com_antena_1.png)
 3. **Gráficos**:
+
+   ![Output Terminal](assets/gráfico.png)
