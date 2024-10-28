@@ -15,3 +15,20 @@ Tecnologias utilizadas:
    A aplicação consiste em um projeto escalável para a localização de carros-kits e rebocadores na fábrica. Cada rebocador e cada kit serão equipados com uma placa de circuito ESP32, conectada a uma antena. Essa placa será responsável por calcular continuamente a localização do equipamento e enviar esses dados para a nuvem. O backend do servidor extrairá essas informações e as usará para mapear a posição dos rebocadores e kits em tempo real. Os montadores poderão solicitar o reabastecimento ou a entrega de um kit por meio de uma interface dedicada; o rebocador mais próximo do kit solicitado receberá uma notificação e deverá realizar a entrega no destino indicado na tela.
 
 https://www.youtube.com/watch?v=iaZc8DCg9Lg
+
+#Teste de Desempenho:
+##Hardware/Software
+
+**Hardware**
+- **ESP32**: Dispositivo principal responsável pela captura dos sinais WiFi.
+- **Pontos de Acesso WiFi (IPHONE 7 plus, redmi note 12, roteador TP-link ARCHER)**: Para trilaceração
+
+**Software**
+- **Thonny IDE - Python**: Para programar o ESP32.
+- **VScode**: Para análise e visualização dos dados
+
+##Testes:
+
+1. **Precisão de Localização e Tempo de Resposta**:
+
+2. **Gráficos**:
